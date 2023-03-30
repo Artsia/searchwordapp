@@ -4,7 +4,7 @@ import playIcon from './play-icon.png';
 import App from './useDictionaryApi';
 
 
-function BodyComp(props) {
+function BodyComp() {
   const [searchTerm, setSearchTerm] = useState('');
   const charLIMIT = 20;
 
