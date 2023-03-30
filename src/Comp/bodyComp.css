@@ -1,0 +1,50 @@
+.body-container {
+  padding: 15px;
+  margin: 0 10%;
+}
+
+.formDiv {
+  width: auto;
+}
+
+.search-input {
+  width: 100%;
+  box-sizing: border-box;
+  padding: 15px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  background-color: #fff;
+  background-image: url('search-icon.png');
+  background-repeat: no-repeat;
+  background-position: right center;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #333;
+}
+
+.keyWordAudioDiv {
+  display: flex;
+  justify-content: space-between;
+  margin: 5% 0;
+  height: auto;
+  width: 100%;
+
+}
+
+.keywordSearched {
+  
+  font-size:large;
+  font-weight: bold;
+  font-family: 'Times New Roman', Times, serif;
+  font-style: oblique;
+
+}
+
+.bodyBtnPlay{
+  border:none;
+  background-color: white
+}
+
+.bodyBtnPlay:hover{
+  background-color: #f9f9f9;
+}
